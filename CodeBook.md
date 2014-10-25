@@ -55,7 +55,7 @@ Variables:
 	2. **nrowTotalData**: 10299 rows of totalData dataset
 	3. **ncolTotalData**: 563 column of totalData dataset
 	
-###### Step 4: Appropriately labels the data set with descriptive variable names ######	
+###### Step 4: Appropriately labels the data set with descriptive variable names ######
 Assign first 561 varialbes with features' names
 
 ###### Step 5: From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.  ######
