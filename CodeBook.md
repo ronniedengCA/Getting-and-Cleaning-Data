@@ -1,6 +1,11 @@
 # code book for run_analysis.R #
 ##This code book describes the variables, the data, and any transformations or work that I performed to clean up the data ##
 
+###### Dataset uploaded as a txt file: avrSubjectActivity.txt with header but without row names for course project #######
+Dataset is a tidy data set with the average of each variable for each activity (total 6 activitities) and each subject (total 30 subject).
+* dataset has total 563 variables with subject, activity and 561 features
+* dataset has total 180 records capture average measurement for combination of 6 activities and 30 subjects
+
 ###### Step 1 ######
 DataSet:
 * test
@@ -26,7 +31,7 @@ Variables:
 * Related with dataset dimensions
 	1. **numFeature**: total number of features
 	2. **featureNames**: all feature names 
-	3. **meanFeatures**: Extract feature names have "mean()" 
+	3. **meanFeatures**: Extract feature names have "mean()", later on meanFreq features need to be removed
 	4. **meanfreqFeatures**: Extract feature names have "meanFreq"
 	5. 
 	
