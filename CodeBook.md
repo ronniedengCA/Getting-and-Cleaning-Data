@@ -1,6 +1,7 @@
 # code book for run_analysis.R #
-######This code book describes the variables, the data, and any transformations or work that I performed to clean up the data ######
+##This code book describes the variables, the data, and any transformations or work that I performed to clean up the data ##
 
+###### Step 1 ######
 DataSet:
 * test
 	1. **testSubjectData**: dataset loaded from *subject_test.txt* with subject variable name defined as **subjectID**
@@ -15,8 +16,17 @@ DataSet:
 	
 * All
 	1. **totalData**: rbind datset with **testData** and **trainData**	
+
+###### Step 2 ######	
+DataSet:
+* Other
+	1. **feature**: dataset loaded from *features.txt*
 	
 Variables:
 * Related with dataset dimensions
 	1. **numFeature**: total number of features
+	2. **featureNames**: all feature names 
+	3. **meanFeatures**: Extract feature names have "mean()" 
+	4. **meanfreqFeatures**: Extract feature names have "meanFreq"
+	5. 
 	
