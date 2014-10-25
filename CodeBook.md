@@ -46,12 +46,12 @@ DataSet:
 Variables:
 * related with adding descriptive activity names
 	1. **activityNames**: Character 
-		*WALKING 			
-		*WALKING_UPSTAIRS
-		*WALKING_DOWNSTAIRS
-		*SITTING
-		*STANDING
-		*LAYING
+		* WALKING 			
+		* WALKING_UPSTAIRS
+		* WALKING_DOWNSTAIRS
+		* SITTING
+		* STANDING
+		* LAYING
 	2. **nrowTotalData**: 10299 rows of totalData dataset
 	3. **ncolTotalData**: 563 column of totalData dataset
 	
