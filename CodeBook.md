@@ -40,9 +40,9 @@ Variables:
 	6. **meanStdFeatures**: combined mean and std features
 
 ###### Step 3: Uses descriptive activity names to name the activities in the data set ######
-*DataSet:
+DataSet:
 	1. **activityLabels**: dataset loaded from *activity_labels.txt* with 2 varialbes and 6 rows
-*Variables:
+Variables:
 	1. **activityNames**: Character 
 		WALKING 			
 		WALKING_UPSTAIRS
