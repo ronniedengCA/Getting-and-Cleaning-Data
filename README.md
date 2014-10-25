@@ -21,4 +21,4 @@ Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012
 ######
 * **run_analysis.R** is used to process the dataset downloaded and unzipped.
 * **run_analysis.R** need to be saved as same folder as unzipped dataset *UCI HAR Dataset*. Unzipped file and folder structure need to be remain untouched
-* output file **avrSubjectActivity.txt** will be saved to the same folder as well
+* Output file **avrSubjectActivity.txt** will be saved to the same folder as well
