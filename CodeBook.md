@@ -23,7 +23,7 @@ DataSet:
 * Combined test and train dataset
 	1. **totalData**: rbind datset **testData** and **trainData**, and get 563 variables and 10299 rows with 561 features variable followed by subjectID and activityID	
 
-###### Step 2: extract subset of dataset with only those measurement for mean and standard deviation ######	
+###### Step 2: extract subset of dataset with only those measurement for mean and standard deviation ######
 DataSet:
 * feature name dataset
 	1. **feature**: dataset loaded from *features.txt* with 2 varialbes and 561 rows.
