@@ -6,13 +6,17 @@ DataSet:
 	1. **testSubjectData**: dataset loaded from *subject_test.txt* with subject variable name defined as **subjectID**
 	2. **testXData**: dataset loaded from *X_test.txt*
 	3. **testYData**: dataset loaded from *Y_test.txt* with activity variable name definded as **activityID**
-	4. **testData**: merged dataset with **testSubjectData**, **testXData**, and **testYData**
+	4. **testData**: cbind dataset with **testSubjectData**, **testXData**, and **testYData**
 * train
-	1. **trainSubjectData**: dataset loaded from *subject_train.txt* with subject variable name defined as *subjectID* 
+	1. **trainSubjectData**: dataset loaded from *subject_train.txt* with subject variable name defined as **subjectID** 
 	2. **trainXData**: dataset loaded from *X_train.txt*
 	3. **trainYData**: dataset loaded from *Y_train.txt* with activity variable name definded as **activityID**
-	4. **trainData**: 
+	4. **trainData**: cbind dataset with **trainSubjectData**, **trainXData**, and **trainYData**
+	
+* All
+	1. **totalData**: rbind datset with **testData** and **trainData**	
 	
 Variables:
-	1. numFeature: total number of features
+* Related with dataset dimensions
+	1. **numFeature**: total number of features
 	
