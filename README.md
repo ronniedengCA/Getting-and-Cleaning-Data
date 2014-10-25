@@ -19,4 +19,4 @@ Course Project for Coursera Getting and Cleaning Data
 This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 ######
-run_analysis.R is used to process the dataset downloaded and unzipped.
+* **run_analysis.R** is used to process the dataset downloaded and unzipped.
