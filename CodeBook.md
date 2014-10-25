@@ -3,8 +3,8 @@
 
 ###### Dataset uploaded as a txt file: *avrSubjectActivity.txt* with header but without row names for course project #######
 Dataset is a tidy data set with the average of each variable for each activity (total 6 activitities) and each subject (total 30 subject).
-* dataset has total 563 variables with subject, activity and 561 features
-* dataset has total 180 records capture average measurement for combination of 6 activities and 30 subjects :walking: :running:
+* dataset has total 563 variables with subject :family:, activity :walking: :running: :couple: and 561 features
+* dataset has total 180 records capture average measurement for combination of 6 activities and 30 subjects 
 
 ###### Step 1 ######
 DataSet:
