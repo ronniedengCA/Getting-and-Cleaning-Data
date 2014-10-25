@@ -41,8 +41,10 @@ Variables:
 
 ###### Step 3: Uses descriptive activity names to name the activities in the data set ######
 DataSet:
+* activityLabel dataset
 	1. **activityLabels**: dataset loaded from *activity_labels.txt* with 2 varialbes and 6 rows
 Variables:
+* related with adding descriptive activity names
 	1. **activityNames**: Character 
 		WALKING 			
 		WALKING_UPSTAIRS
